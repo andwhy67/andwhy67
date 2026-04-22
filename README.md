@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 ```
-🔭  Building  →  Voice Synth Model & Living Code Map
+🔭  Building  →  VoiceAI & Living Code Map
 💼  Role      →  Full-Stack Developer & DevOps Engineer
 🌐  Stack     →  JS · Python · Java · C++
 📬  Telegram  →  @okakO52
@@ -31,26 +31,42 @@
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### AI & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
@@ -64,25 +80,29 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Voice Synth Model
-> AI-powered voice synthesis engine
+### 🎙️ [VoiceAI](https://github.com/andwhy67/VoiceAI)
+> Neural text-to-speech engine based on VITS
 
-- 🤖 Deep learning-based TTS
-- 🎵 Natural voice generation
-- ⚡ Real-time synthesis pipeline
+- 🤖 End-to-end VITS architecture
+- 🎵 Multi-speaker voice synthesis
+- ⚡ FastAPI inference server
+- 🐳 Docker-ready for local & server deploy
 
+**Stack:** Python · PyTorch · FastAPI · Docker  
 **Status:** 🔨 In Development
 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ Living Code Map
-> Interactive codebase visualization tool
+### 🌌 [Living Code Map](https://github.com/andwhy67/living-code-map)
+> Interactive 3D visualization of GitHub repo structure
 
-- 🌐 Dynamic dependency graph
-- 🔍 Real-time code exploration
-- 📊 Visual architecture overview
+- 🪐 Force-directed 3D galaxy of files & functions
+- 🔗 Semantic graph: imports, calls, inheritance
+- 📅 Git timeline — replay repo evolution
+- ⚡ Execution flow simulation on the graph
 
+**Stack:** React · Three.js · FastAPI · Neo4j · PostgreSQL  
 **Status:** 🔨 In Development
 
 </td>
